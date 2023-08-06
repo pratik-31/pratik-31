@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratik-31
-- 👀 I’m interested in Web Development,Competitive Programming Web3,etc.
-- 🌱 I’m currently learning React,Vue,solidity,etc.
-- 💞️ I’m looking to collaborate on Web2 and Web3 projects.
+- 👀 I’m Full Stack Web3 Developer.
+- 🌱 I’m currently learning NextJs,ReactJs,Solidity,etc.
+- 💞️ I’m looking to collaborate on Web3 and Web2 projects.
 - 📫 How to reach me: mail me on pratikkumar.agarwal123@gmail.com
 
 <!---
